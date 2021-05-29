@@ -1,0 +1,61 @@
+,id,cidade,estado,data,probabilidade
+0,100,São Paulo,SP,2021-05-29,90
+1,110,São Paulo,SP,2021-05-30,80
+2,120,São Paulo,SP,2021-05-31,90
+3,130,São Paulo,SP,2021-06-01,0
+4,140,São Paulo,SP,2021-06-02,0
+5,150,São Paulo,SP,2021-06-03,0
+6,160,São Paulo,SP,2021-06-04,0
+7,170,São Paulo,SP,2021-06-05,0
+8,180,São Paulo,SP,2021-06-06,0
+9,190,São Paulo,SP,2021-06-07,0
+10,200,São Paulo,SP,2021-06-08,0
+11,210,São Paulo,SP,2021-06-09,67
+12,220,São Paulo,SP,2021-06-10,0
+13,230,São Paulo,SP,2021-06-11,0
+14,240,São Paulo,SP,2021-06-12,0
+15,250,Porto Alegre,RS,2021-05-29,0
+16,260,Porto Alegre,RS,2021-05-30,0
+17,270,Porto Alegre,RS,2021-05-31,0
+18,280,Porto Alegre,RS,2021-06-01,0
+19,290,Porto Alegre,RS,2021-06-02,0
+20,300,Porto Alegre,RS,2021-06-03,0
+21,310,Porto Alegre,RS,2021-06-04,0
+22,320,Porto Alegre,RS,2021-06-05,67
+23,330,Porto Alegre,RS,2021-06-06,67
+24,340,Porto Alegre,RS,2021-06-07,0
+25,350,Porto Alegre,RS,2021-06-08,0
+26,360,Porto Alegre,RS,2021-06-09,0
+27,370,Porto Alegre,RS,2021-06-10,0
+28,380,Porto Alegre,RS,2021-06-11,0
+29,390,Porto Alegre,RS,2021-06-12,0
+30,400,Curitiba,PR,2021-05-29,90
+31,410,Curitiba,PR,2021-05-30,90
+32,420,Curitiba,PR,2021-05-31,90
+33,430,Curitiba,PR,2021-06-01,0
+34,440,Curitiba,PR,2021-06-02,0
+35,450,Curitiba,PR,2021-06-03,0
+36,460,Curitiba,PR,2021-06-04,0
+37,470,Curitiba,PR,2021-06-05,0
+38,480,Curitiba,PR,2021-06-06,67
+39,490,Curitiba,PR,2021-06-07,67
+40,500,Curitiba,PR,2021-06-08,67
+41,510,Curitiba,PR,2021-06-09,0
+42,520,Curitiba,PR,2021-06-10,0
+43,530,Curitiba,PR,2021-06-11,0
+44,540,Curitiba,PR,2021-06-12,0
+45,550,Rio de Janeiro,RJ,2021-05-29,67
+46,560,Rio de Janeiro,RJ,2021-05-30,80
+47,570,Rio de Janeiro,RJ,2021-05-31,90
+48,580,Rio de Janeiro,RJ,2021-06-01,90
+49,590,Rio de Janeiro,RJ,2021-06-02,0
+50,600,Rio de Janeiro,RJ,2021-06-03,0
+51,610,Rio de Janeiro,RJ,2021-06-04,0
+52,620,Rio de Janeiro,RJ,2021-06-05,0
+53,630,Rio de Janeiro,RJ,2021-06-06,0
+54,640,Rio de Janeiro,RJ,2021-06-07,0
+55,650,Rio de Janeiro,RJ,2021-06-08,0
+56,660,Rio de Janeiro,RJ,2021-06-09,0
+57,670,Rio de Janeiro,RJ,2021-06-10,0
+58,680,Rio de Janeiro,RJ,2021-06-11,0
+59,690,Rio de Janeiro,RJ,2021-06-12,0
